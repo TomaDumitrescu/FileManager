@@ -18,5 +18,4 @@ Vulnerability: when clicking on file (that is not a directory) to list its subfi
 an increasing path can be displaying after multiple clicks.
 
 ## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+path: C:\Users\User\Desktop\file_manager\rust_file_manager
